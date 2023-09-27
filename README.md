@@ -39,7 +39,7 @@ command to run if program contains helper info
 ## Authors
 
 Danik Lafrance
-[@DomPizzie](https://twitter.com/dompizzie)
+[daniklafrance](https://twitter.com/dompizzie)
 
 ##References
 
