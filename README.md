@@ -38,15 +38,8 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.1
-    * Initial Release
+Danik Lafrance
+[@DomPizzie](https://twitter.com/dompizzie)
 
 ##References
 
