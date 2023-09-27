@@ -1,6 +1,4 @@
-# Project Title
-
-SQL Challenge
+# SQL Challenge
 
 ## Description
 
