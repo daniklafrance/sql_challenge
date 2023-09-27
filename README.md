@@ -20,21 +20,6 @@ and then answer questions about the data. That is, you’ll perform data modelin
 
 * https://www.postgresql.org/
 
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
 ## Authors
 
 Danik Lafrance
